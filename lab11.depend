@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1447955883 source:c:\users\tauco_000\documents\c++ code\lab11\lab11.cpp
+	<iostream>
+	"Pair.h"
+
+1447957070 c:\users\tauco_000\documents\c++ code\lab11\pair.h
+	<iostream>
+	<string>
+	"Pair.cpp"
+	<iostream>
+	<string>
+
+1447957242 source:c:\users\tauco_000\documents\c++ code\lab11\main.cpp
+	<iostream>
+	"Pair.h"
+
+1447957217 c:\users\tauco_000\documents\c++ code\lab11\pair.cpp
+	<iostream>
+	<sstream>
+	"Pair.h"
+
+1447957217 source:c:\users\tauco_000\documents\c++ code\lab11\pair.cpp
+	<iostream>
+	<sstream>
+	"Pair.h"
+
